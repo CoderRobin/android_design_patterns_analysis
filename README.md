@@ -38,7 +38,7 @@
 |    [责任链模式](chain-of-responsibility/AigeStudio) | [AigeStudio](https://github.com/AigeStudio)|  撒丫子赶稿中  |
 |    [工厂方法模式](factory-method/AigeStudio) | [AigeStudio](https://github.com/AigeStudio)|  撒丫子赶稿中  |
 |    [抽象工厂模式](abstract-factory/AigeStudio) | [AigeStudio](https://github.com/AigeStudio)|  撒丫子赶稿中  |
-
+|    [状态模式](state/CoderRobin) | [CoderRobin](https://github.com/CoderRobin)|  淡定地慢慢研究  |
 
 ## 目前无人认领的模式
 | 模式名        | 
